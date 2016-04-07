@@ -1,0 +1,36 @@
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipMarkedUpPages\bin\Debug\RipMarkedUpPages.exe.config
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipMarkedUpPages\bin\Debug\RipMarkedUpPages.XML
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipMarkedUpPages\bin\Debug\RipMarkedUpPages.exe
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipMarkedUpPages\bin\Debug\RipMarkedUpPages.pdb
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipMarkedUpPages\bin\Debug\FSharp.Core.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipMarkedUpPages\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipMarkedUpPages\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipMarkedUpPages\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipMarkedUpPages\bin\Debug\FSharp.Core.xml
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipMarkedUpPages\obj\Debug\RipMarkedUpPages.fsprojResolveAssemblyReference.cache
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipMarkedUpPages\obj\Debug\RipMarkedUpPages.exe
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipMarkedUpPages\obj\Debug\RipMarkedUpPages.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipMarkedUpPages\bin\Debug\RipMarkedUpPages.exe.config
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipMarkedUpPages\bin\Debug\RipMarkedUpPages.XML
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipMarkedUpPages\bin\Debug\RipMarkedUpPages.exe
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipMarkedUpPages\bin\Debug\RipMarkedUpPages.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipMarkedUpPages\bin\Debug\FSharp.Core.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipMarkedUpPages\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipMarkedUpPages\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipMarkedUpPages\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipMarkedUpPages\bin\Debug\FSharp.Core.xml
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipMarkedUpPages\obj\Debug\RipMarkedUpPages.fsprojResolveAssemblyReference.cache
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipMarkedUpPages\obj\Debug\RipMarkedUpPages.exe
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipMarkedUpPages\obj\Debug\RipMarkedUpPages.pdb
+E:\Dropbox\source\git-repos\newspaper23\RipMarkedUpPages\bin\Debug\RipMarkedUpPages.exe.config
+E:\Dropbox\source\git-repos\newspaper23\RipMarkedUpPages\bin\Debug\RipMarkedUpPages.XML
+E:\Dropbox\source\git-repos\newspaper23\RipMarkedUpPages\bin\Debug\RipMarkedUpPages.exe
+E:\Dropbox\source\git-repos\newspaper23\RipMarkedUpPages\bin\Debug\RipMarkedUpPages.pdb
+E:\Dropbox\source\git-repos\newspaper23\RipMarkedUpPages\bin\Debug\FSharp.Core.dll
+E:\Dropbox\source\git-repos\newspaper23\RipMarkedUpPages\bin\Debug\HtmlAgilityPack.dll
+E:\Dropbox\source\git-repos\newspaper23\RipMarkedUpPages\bin\Debug\HtmlAgilityPack.pdb
+E:\Dropbox\source\git-repos\newspaper23\RipMarkedUpPages\bin\Debug\HtmlAgilityPack.xml
+E:\Dropbox\source\git-repos\newspaper23\RipMarkedUpPages\bin\Debug\FSharp.Core.xml
+E:\Dropbox\source\git-repos\newspaper23\RipMarkedUpPages\obj\Debug\RipMarkedUpPages.fsprojResolveAssemblyReference.cache
+E:\Dropbox\source\git-repos\newspaper23\RipMarkedUpPages\obj\Debug\RipMarkedUpPages.exe
+E:\Dropbox\source\git-repos\newspaper23\RipMarkedUpPages\obj\Debug\RipMarkedUpPages.pdb

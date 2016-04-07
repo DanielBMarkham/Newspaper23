@@ -1,0 +1,17 @@
+#!/bin/bash
+clear
+
+echo "Select the articles for today's newspaper and copy"
+echo ""
+cd /home/www/newspaper23.com/ripprogs
+./FormatSelectedArticleList /I:frontpage.selectedarticlelist /O:old.html /T:HTML /H:header1.html /F:footer1.html
+./FormatSelectedArticleList /I:frontpage-local.selectedarticlelist /O:index.html /T:HTML /H:header1.html /F:footer1.html
+./FormatSelectedArticleList /I:frontpage-local.selectedarticlelist /O:index.js /T:JSON
+./FormatSelectedArticleList /I:frontpage.selectedarticlelist /O:old.js /T:JSON
+echo "formatting done."
+cp index.html ..
+cp alpha.html ..
+cp alpha.js ..
+cp index.js ..
+echo "copying to web done"
+echo "Select Articles Update"

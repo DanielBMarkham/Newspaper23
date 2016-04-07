@@ -1,0 +1,10 @@
+[Meta]
+Name:Mediaite
+MaterialType: News
+RootDomain: www.mediaite.com
+UserAgent: Random
+Referrer: None
+
+[Paths]
+ArticleTitles://a[text()][not(img)]|||InnerText
+ArticleLinks://a[text()][not(img)]|||href

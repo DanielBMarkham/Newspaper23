@@ -1,0 +1,10 @@
+[Meta]
+Name:Huffington Post
+MaterialType:Opinion
+RootDomain:www.huffingtonpost.com
+UserAgent: Random
+Referrer: None
+
+[Paths]
+ArticleTitles://div[@id='wrapper_inner']/div[not(@id!='masthead') and not(@id!='blogroll_wrapper')]//a[not(contains(@href,'#comments'))][not(img)][text()]|||InnerText
+ArticleLinks://div[@id='wrapper_inner']/div[not(@id!='masthead') and not(@id!='blogroll_wrapper')]//a[not(contains(@href,'#comments'))][not(img)][text()]|||href

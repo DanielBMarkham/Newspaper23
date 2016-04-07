@@ -1,0 +1,10 @@
+[Meta]
+Name:Real Clear Books
+MaterialType: Book Columns
+RootDomain: www.realclearbooks.com
+UserAgent: Random
+Referrer: None
+
+[Paths]
+ArticleTitles://div[@id='story']//a[text()]|||InnerText
+ArticleLinks://div[@id='story']//a[text()]|||href

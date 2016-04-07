@@ -1,0 +1,54 @@
+#!/bin/bash
+clear
+
+echo "Begin ripping links from sites with .config files set up"
+echo ""
+cd /home/ubuntu/ripprogs
+./GetLinks /V /S:reddit.com/r/technology /C:reddit.com-r-technology.getlinksconfig /O:reddit.com-r-technology.getlinksoutput /N:95
+sleep 30
+./GetLinks /V /S:cnn.com /C:cnn.com.getlinksconfig /O:cnn.com.getlinksoutput /N:65
+sleep 30
+./GetLinks /V /S:drudgereport.com /C:drudgereport.com.getlinksconfig /O:drudgereport.com.getlinksoutput /N:50
+sleep 30
+./GetLinks /V /S:dzone.com /C:dzone.com.getlinksconfig /O:dzone.com.getlinksoutput /N:75
+sleep 30
+./GetLinks /V /S:foxnews.com /C:foxnews.com.getlinksconfig /O:foxnews.com.getlinksoutput /N:110
+sleep 30
+./GetLinks /V /S:huffingtonpost.com /C:huffingtonpost.com.getlinksconfig /O:huffingtonpost.com.getlinksoutput /N:75
+sleep 30
+./GetLinks /V /S:mediaite.com /C:mediaite.com.getlinksconfig /O:mediaite.com.getlinksoutput /N:75
+sleep 30
+./GetLinks /V /S:reason.com /C:reason.com.getlinksconfig /O:reason.com.getlinksoutput /N:50
+sleep 30
+./GetLinks /V /S:nbcnews.com /C:nbcnews.com.getlinksconfig /O:nbcnews.com.getlinksoutput /N:90
+sleep 30
+./GetLinks /V /S:reddit.com/r/libertarian /C:reddit.com-r-libertarian.getlinksconfig /O:reddit.com-r-libertarian.getlinksoutput /N:95
+sleep 30
+./GetLinks /V /S:news.ycombinator.com /C:news.ycombinator.com.getlinksconfig /O:news.ycombinator.com.getlinksoutput /N:20
+sleep 30
+./GetLinks /V /S:realclearbooks.com /C:realclearbooks.com.getlinksconfig /O:realclearbooks.com.getlinksoutput /N:50
+sleep 30
+./GetLinks /V /S:realclearhistory.com /C:realclearhistory.com.getlinksconfig /O:realclearhistory.com.getlinksoutput /N:50
+sleep 30
+./GetLinks /V /S:realclearmarkets.com /C:realclearmarkets.com.getlinksconfig /O:realclearmarkets.com.getlinksoutput /N:50
+sleep 30
+./GetLinks /V /S:realclearpolicy.com /C:realclearpolicy.com.getlinksconfig /O:realclearpolicy.com.getlinksoutput /N:50
+sleep 30
+./GetLinks /V /S:realclearpolitics.com /C:realclearpolitics.com.getlinksconfig /O:realclearpolitics.com.getlinksoutput /N:50
+sleep 30
+./GetLinks /V /S:realclearscience.com /C:realclearscience.com.getlinksconfig /O:realclearscience.com.getlinksoutput /N:50
+sleep 30
+./GetLinks /V /S:realcleartechnology.com /C:realcleartechnology.com.getlinksconfig /O:realcleartechnology.com.getlinksoutput /N:50
+sleep 30
+./GetLinks /V /S:reddit.com/r/finance /C:reddit.com-r-finance.getlinksconfig /O:reddit.com-r-finance.getlinksoutput /N:95
+sleep 30
+./GetLinks /V /S:reddit.com/r/history /C:reddit.com-r-history.getlinksconfig /O:reddit.com-r-history.getlinksoutput /N:95
+sleep 30
+./GetLinks /V /S:reddit.com/r/science /C:reddit.com-r-science.getlinksconfig /O:reddit.com-r-science.getlinksoutput /N:95
+sleep 30
+./GetLinks /V /S:realclearworld.com /C:realclearworld.com.getlinksconfig /O:realclearworld.com.getlinksoutput /N:50
+sleep 30
+./GetLinks /V /S:reddit.com/r/agile /C:reddit.com-r-agile.getlinksconfig /O:agile.com-r-finance.getlinksoutput /N:95
+sleep 30
+./GetLinks /V /S:watchingamerica.com/News /C:watchingamerica.com-News.getlinksconfig /O:watchingamerica.com-News.getlinksoutput /N:50
+sleep 30

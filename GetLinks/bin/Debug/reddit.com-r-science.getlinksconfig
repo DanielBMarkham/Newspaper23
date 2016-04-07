@@ -1,0 +1,15 @@
+[Meta]
+Name:Reddit /r/science Feed
+MaterialType: Science
+MoreLink: //*[contains(@class,'nextprev')]//a[contains(@rel,'next')]
+RootDomain: www.reddit.com
+UserAgent: Random
+Referrer: None
+
+[Paths]
+ArticleTitles://a[contains(@class,'title')][text()]|||InnerText
+ArticleLinks://a[contains(@class,'title')][text()]|||href
+CurrentScore://div[@class='score unvoted']|||InnerText
+SubmissionTime://p[@class='tagline']/time|||title
+Submitter://p[@class='tagline']/a|||InnerText
+NumberOfComments://div[@class='entry unvoted']/ul/li[@class='first']|||InnerText

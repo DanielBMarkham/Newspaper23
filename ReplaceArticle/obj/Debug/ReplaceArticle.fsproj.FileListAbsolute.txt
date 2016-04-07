@@ -1,0 +1,36 @@
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\ReplaceArticle\bin\Debug\ReplaceArticle.exe.config
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\ReplaceArticle\bin\Debug\ReplaceArticle.XML
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\ReplaceArticle\bin\Debug\ReplaceArticle.exe
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\ReplaceArticle\bin\Debug\ReplaceArticle.pdb
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\ReplaceArticle\bin\Debug\FSharp.Core.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\ReplaceArticle\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\ReplaceArticle\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\ReplaceArticle\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\ReplaceArticle\bin\Debug\FSharp.Core.xml
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\ReplaceArticle\obj\Debug\ReplaceArticle.fsprojResolveAssemblyReference.cache
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\ReplaceArticle\obj\Debug\ReplaceArticle.exe
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\ReplaceArticle\obj\Debug\ReplaceArticle.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\ReplaceArticle\bin\Debug\ReplaceArticle.exe.config
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\ReplaceArticle\bin\Debug\ReplaceArticle.XML
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\ReplaceArticle\bin\Debug\ReplaceArticle.exe
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\ReplaceArticle\bin\Debug\ReplaceArticle.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\ReplaceArticle\bin\Debug\FSharp.Core.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\ReplaceArticle\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\ReplaceArticle\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\ReplaceArticle\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\ReplaceArticle\bin\Debug\FSharp.Core.xml
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\ReplaceArticle\obj\Debug\ReplaceArticle.fsprojResolveAssemblyReference.cache
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\ReplaceArticle\obj\Debug\ReplaceArticle.exe
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\ReplaceArticle\obj\Debug\ReplaceArticle.pdb
+E:\Dropbox\source\git-repos\newspaper23\ReplaceArticle\bin\Debug\ReplaceArticle.exe.config
+E:\Dropbox\source\git-repos\newspaper23\ReplaceArticle\bin\Debug\ReplaceArticle.XML
+E:\Dropbox\source\git-repos\newspaper23\ReplaceArticle\bin\Debug\ReplaceArticle.exe
+E:\Dropbox\source\git-repos\newspaper23\ReplaceArticle\bin\Debug\ReplaceArticle.pdb
+E:\Dropbox\source\git-repos\newspaper23\ReplaceArticle\bin\Debug\FSharp.Core.dll
+E:\Dropbox\source\git-repos\newspaper23\ReplaceArticle\bin\Debug\HtmlAgilityPack.dll
+E:\Dropbox\source\git-repos\newspaper23\ReplaceArticle\bin\Debug\HtmlAgilityPack.pdb
+E:\Dropbox\source\git-repos\newspaper23\ReplaceArticle\bin\Debug\HtmlAgilityPack.xml
+E:\Dropbox\source\git-repos\newspaper23\ReplaceArticle\bin\Debug\FSharp.Core.xml
+E:\Dropbox\source\git-repos\newspaper23\ReplaceArticle\obj\Debug\ReplaceArticle.fsprojResolveAssemblyReference.cache
+E:\Dropbox\source\git-repos\newspaper23\ReplaceArticle\obj\Debug\ReplaceArticle.exe
+E:\Dropbox\source\git-repos\newspaper23\ReplaceArticle\obj\Debug\ReplaceArticle.pdb

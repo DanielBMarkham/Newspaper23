@@ -1,0 +1,10 @@
+[Meta]
+Name:Quartz
+MaterialType: Commentary
+RootDomain: www.qz.com
+UserAgent: Random
+Referrer: None
+
+[Paths]
+ArticleTitles://a[text()][not(img)][not(@href='#')]|||InnerText
+ArticleLinks://a[text()][not(img)][not(@href='#')]|||href

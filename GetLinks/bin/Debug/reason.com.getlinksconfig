@@ -1,0 +1,10 @@
+[Meta]
+Name:Reason Magazine
+MaterialType: Opinion
+RootDomain: www.reason.com
+UserAgent: Random
+Referrer: None
+
+[Paths]
+ArticleTitles://div[(@class='content-list') or(@class='dividers')]//a[normalize-space(text()) and(not(contains(@href,'http://reason.com/people/'))) and(not(text()='READ MORE')) and(not(text()='PLAY VIDEO')) and(not(@href='#'))]|||InnerText
+ArticleLinks://div[(@class='content-list') or(@class='dividers')]//a[normalize-space(text()) and(not(contains(@href,'http://reason.com/people/'))) and(not(text()='READ MORE')) and(not(text()='PLAY VIDEO')) and(not(@href='#'))]|||href

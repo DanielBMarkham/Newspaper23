@@ -1,0 +1,10 @@
+[Meta]
+Name: FoxNews Feed
+MaterialType: News
+RootDomain: www.foxnews.com
+UserAgent: Random
+Referrer: None
+
+[Paths]
+ArticleTitles://div[@id='section']//a[not(@href='#') and not(contains(@href, 'video'))][not(img)][text()]|||InnerText
+ArticleLinks://div[@id='section']//a[not(@href='#') and not(contains(@href, 'video'))][not(img)][text()]|||href

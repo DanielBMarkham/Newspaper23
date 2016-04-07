@@ -1,0 +1,349 @@
+Links ripped from HackerNews on 9/7/2014 1:53:41 PM
+
+
+[ArticleTitles]
+Stop and Seize
+Show HN: Recently started working on an open source data grid editor in JS/HTML
+Failing the Startup Game at Unbabel – Take 2
+Lessons I learned from the failure of my first startup, Dinnr
+Show HN: My first app – The minimalist distance-based transit alarm
+Bypassing a Python sandbox by abusing code objects
+Reverse engineering a counterfeit 7805 voltage regulator
+IPv6 privacy addresses crashed the MIT CSAIL network
+Swift-X tool to cross compile Swift and Objective-C(++) code to Android
+Zeroing buffers is insufficient
+RunSwift: Try Swift in Your Browser
+Modern anti-spam and E2E crypto
+Realtime streaming from torrents in the browser
+Why Amazon Has No Profits and Why It Works
+Bleve – A modern text indexing library for Go
+What is wrong with Comic Sans?
+Guess Who Rated This Movie: Identifying Users Through Subspace Clustering
+Recommended Security Reading
+If you want to start a startup, go work for someone else
+Mail-in-a-Box
+The FBI Says How It ‘Legally’ Pinpointed Silk Road’s Server
+Ross Ulbricht Defense: Where Are the Packetlogs?
+U.S. Intelligence Community Explores More Rigorous Ways to Forecast Events
+Webscript – Choose a URL and type in a Lua script
+Git pretty
+Rhine – A Lisp on LLVM
+Show HN: Use BIOS ram hacks to make an SSH server for MS-DOS, INT 10 13h OS's
+Scala founder: Language due for 'fundamental rethink'
+Policy – A fork of the Scala compiler
+How is a binary executable organized? Let’s explore it
+Building a deeper understanding of images
+Epic Forum Thread on Concorde (2010)
+Fast, lightweight desktop manager written in AutoHotkey
+Bill Gates Has an Idea for a History Class
+DigitalOcean Partners with CoreOS for Large-Scale Cluster Deployments
+I Am an Indie iOS Developer – Part 2
+How Gauss Taught Us the Best Way to Hold a Pizza Slice
+Humans are wired for negativity
+Gradually sunsetting SHA-1
+What is “immediate connection” good for?
+The New Moto G
+Cheap Drinking Water from the Sun, Aided by a Pop of Pencil Shavings
+New York Police Officers to Begin Wearing Body Cameras in Pilot Program
+Show HN: A tool for creating custom TLS CA bundles
+How Andreessen Horowitz Is Disrupting Silicon Valley
+Why Aren't Women Advancing at Work? Ask a Transgender Person
+Designing a Personal Knowledgebase
+Essential Coding Theory
+AM – Attribute Modules for CSS
+How to zero a buffer
+Show HN: A free invoice generator
+How ACH works: A developer perspective – Part 4
+Carmack reveals the challenges of mobile VR game development
+Why Walking Helps Us Think
+Yao Ming aims to save Africa's elephants by persuading China to give up ivory
+
+
+[ArticleLinks]
+http://www.washingtonpost.com/sf/investigative/2014/09/06/stop-and-seize/?hpid=z2
+https://github.com/datazenit/sensei-grid/tree/master
+http://esoteric-code.blogspot.com/2014/09/failing-startup-game-at-unbabel-take-2.html
+https://medium.com/@michalbohanes/seven-lessons-i-learned-from-the-failure-of-my-first-startup-dinnr-c166d1cfb8b8
+http://news.ycombinator.com/item?id=8280678
+http://pbiernat.blogspot.com/2014/09/bypassing-python-sandbox-by-abusing.html?m=1
+http://www.righto.com/2014/09/reverse-engineering-counterfeit-7805.html
+http://blog.bimajority.org/2014/09/05/the-network-nightmare-that-ate-my-week/
+http://swift-x.org/?p=17
+http://www.daemonology.net/blog/2014-09-06-zeroing-buffers-is-insufficient.html
+http://www.runswiftlang.com/
+https://moderncrypto.org/mail-archive/messaging/2014/000780.html?hn
+http://iflix.io/
+https://a16z.com/2014/09/05/why-amazon-has-no-profits-and-why-it-works/
+https://github.com/blevesearch/bleve
+https://graphicdesign.stackexchange.com/questions/38226/what-is-wrong-with-comic-sans
+http://arxiv.org/abs/1408.2055
+http://dfir.org/?q=node/8/
+http://philosophyforprogrammers.blogspot.com/2014/09/if-you-want-to-start-startup-go-work.html
+https://mailinabox.email/
+http://www.wired.com/2014/09/the-fbi-finally-says-how-it-legally-pinpointed-silk-roads-server/
+https://weev.livejournal.com/407404.html
+http://online.wsj.com/articles/u-s-intelligence-community-explores-more-rigorous-ways-to-forecast-events-1409937859
+https://www.webscript.io/
+http://justinhileman.info/article/git-pretty/
+https://github.com/artagnon/rhine
+https://github.com/benjojo/dos_ssh
+http://www.infoworld.com/t/java-programming/scala-founder-language-due-fundamental-rethink-249845
+https://github.com/paulp/policy/blob/master/README.md
+http://jvns.ca/blog/2014/09/06/how-to-read-an-executable/
+http://googleresearch.blogspot.com/2014/09/building-deeper-understanding-of-images.html
+http://www.pprune.org/tech-log/423988-concorde-question.html
+http://github.com/octalmage/mdesktop
+http://www.nytimes.com/2014/09/07/magazine/so-bill-gates-has-this-idea-for-a-history-class.html
+http://techcrunch.com/2014/09/05/digitalocean-partners-with-coreos-to-bring-large-scale-cluster-deployments-to-its-platform/
+http://gabrielhauber.net/devBlog/2014/09/06/indie-dev-part-2/index.html
+http://www.wired.com/2014/09/curvature-and-strength-empzeal/
+http://aeon.co/magazine/psychology/humans-are-wired-for-negativity-for-good-or-ill/
+http://googleonlinesecurity.blogspot.com/2014/09/gradually-sunsetting-sha-1.html
+http://lacezero.wordpress.com/2014/09/04/what-is-immediate-connection-good-for/
+http://www.motorola.com/us/Moto-G-%282nd-Gen.%29/moto-g-2nd-gen-pdp.html
+http://www.npr.org/blogs/goatsandsoda/2014/09/05/342469699/cheap-drinking-water-from-the-sun-aided-by-a-pop-of-pencil-shavings
+http://www.nytimes.com/2014/09/05/nyregion/new-york-police-officers-to-begin-wearing-body-cameras-in-pilot-program.html
+https://mkcert.org/
+https://medium.com/@petersimsie/how-andreessen-horowitz-is-disrupting-silicon-valley-208041d6375d
+http://thenewrepublic.com/article/119239/transgender-people-can-explain-why-women-dont-advance-work
+http://www.acuriousmix.com/2014/09/03/designing-a-personal-knowledgebase/
+http://www.cse.buffalo.edu/~atri/courses/coding-theory/book/
+http://glenmaddern.com/articles/introducing-am-css
+http://www.daemonology.net/blog/2014-09-04-how-to-zero-a-buffer.html
+http://news.ycombinator.com/item?id=8278406
+http://engineering.zenpayroll.com/how-ach-works-a-developer-perspective-part-4/
+http://www.gamasutra.com/view/news/224894/QA_Carmack_reveals_the_challenges_of_mobile_VR_game_development.php
+http://www.newyorker.com/tech/elements/walking-helps-us-think
+http://www.washingtonpost.com/world/ex-rocket-yao-ming-aims-to-save-africas-elephants--with-china-campaign/2014/09/03/87ebbe2a-d3e1-4283-964e-8d87dea397d6_story.html
+
+
+[CurrentScore]
+58 points
+14 points
+4 points
+286 points
+44 points
+84 points
+195 points
+167 points
+34 points
+281 points
+96 points
+375 points
+107 points
+588 points
+89 points
+32 points
+52 points
+168 points
+284 points
+223 points
+218 points
+44 points
+32 points
+76 points
+281 points
+134 points
+62 points
+168 points
+192 points
+147 points
+206 points
+111 points
+26 points
+174 points
+242 points
+110 points
+174 points
+107 points
+138 points
+6 points
+212 points
+67 points
+296 points
+19 points
+96 points
+25 points
+231 points
+73 points
+124 points
+275 points
+76 points
+83 points
+97 points
+204 points
+174 points
+
+
+[SubmissionTime]
+1 hour ago |
+2 hours ago |
+47 minutes ago |
+19 hours ago |
+3 hours ago |
+12 hours ago |
+21 hours ago |
+20 hours ago |
+8 hours ago |
+1 day ago |
+17 hours ago |
+1 day ago |
+15 hours ago |
+1 day ago |
+19 hours ago |
+4 hours ago |
+18 hours ago |
+1 day ago |
+23 hours ago |
+1 day ago |
+1 day ago |
+2 hours ago |
+15 hours ago |
+1 day ago |
+23 hours ago |
+1 day ago |
+1 day ago |
+1 day ago |
+1 day ago |
+21 hours ago |
+1 day ago |
+1 day ago |
+12 hours ago |
+1 day ago |
+2 days ago |
+1 day ago |
+1 day ago |
+1 day ago |
+1 day ago |
+7 hours ago |
+1 day ago |
+1 day ago |
+2 days ago |
+17 hours ago |
+1 day ago |
+19 hours ago |
+2 days ago |
+1 day ago |
+1 day ago |
+2 days ago |
+23 hours ago |
+1 day ago |
+2 days ago |
+2 days ago |
+2 days ago |
+
+
+[Submitter]
+cgtyoder
+lauriswtf
+andreasgonewild
+jefflinwood
+Jaberer
+JoachimS
+carloscm
+anderskaseorg
+lstamour
+MartinodF
+jparishy
+timmclean
+0x4139
+taylorbuley
+tuneladora
+papaf
+hrb1979
+Garbage
+Xodarap
+of
+nikcub
+aburan28
+petethomas
+Red_Tarsius
+todd8
+artagnon
+benjojo12
+snydeq
+lelf
+jvns
+xtacy
+idlewords
+octalmage
+walterbell
+dedene
+clarky07
+_mayo
+RV86
+ivanr
+iamwil
+coreymgilmore
+sizzle
+siculars
+Lukasa
+pkallberg
+davidgerard
+ingve
+stokedmartin
+geelen
+cperciva
+Bogdanp
+edawerd
+mariuz
+chippy
+adamnemecek
+
+
+[NumberOfComments]
+12 comments
+12 comments
+2 comments
+146 comments
+10 comments
+12 comments
+56 comments
+97 comments
+14 comments
+126 comments
+20 comments
+130 comments
+69 comments
+252 comments
+15 comments
+33 comments
+3 comments
+44 comments
+89 comments
+79 comments
+153 comments
+58 comments
+11 comments
+29 comments
+53 comments
+80 comments
+26 comments
+106 comments
+95 comments
+31 comments
+48 comments
+41 comments
+12 comments
+116 comments
+58 comments
+48 comments
+33 comments
+33 comments
+96 comments
+6 comments
+165 comments
+18 comments
+197 comments
+7 comments
+54 comments
+3 comments
+113 comments
+10 comments
+54 comments
+208 comments
+45 comments
+25 comments
+42 comments
+49 comments
+37 comments

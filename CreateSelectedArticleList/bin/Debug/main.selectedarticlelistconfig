@@ -1,0 +1,37 @@
+[Meta]
+Name:Test Processing
+HoursToRemember:48
+
+[Tech-Sci]
+Hacker News, 50, news.ycombinator.com.articlelibrary
+RealClear Science, 50, realclearscience.com.articlelibrary
+DZone, 50, dzone.com.articlelibrary
+RealClear Technology, 50, realcleartechnology.com.articlelibrary
+Reddit/r/technology, 50, reddit.com-r-technology.articlelibrary
+Reddit/r/science, 50, reddit.com-r-science.articlelibrary
+
+[Management-Finance]
+RealClear Markets, 50, realclearmarkets.com.articlelibrary
+Reddit/r/finance, 10, reddit.com-r-finance.articlelibrary
+Reddit/r/agile, 10, reddit.com-r-agile.articlelibrary
+
+[Opinion]
+Reason Magazine, 50, reason.com.articlelibrary
+RealClear Policy, 20, realclearpolicy.com.articlelibrary
+RealClear Politics, 20, realclearpolitics.com.articlelibrary
+Huffington Post, 50, huffingtonpost.com.articlelibrary
+Reddit/r/libertarian, 50, reddit.com-r-libertarian.articlelibrary
+
+[World-History]
+RealClear World, 50, realclearworld.com.articlelibrary
+RealClear History, 50, realclearhistory.com.articlelibrary
+Watching America, 50, watchingamerica.com-News.articlelibrary
+RealClear Books, 50, realclearbooks.com.articlelibrary
+Reddit/r/history, 50, reddit.com-r-history.articlelibrary
+
+[News]
+Drudge Report, 50, drudgereport.com.articlelibrary
+Fox News, 50, foxnews.com.articlelibrary
+CNN, 50, cnn.com.articlelibrary
+NBC News, 50, nbcnews.com.articlelibrary
+Mediaite, 50, mediaite.com.articlelibrary

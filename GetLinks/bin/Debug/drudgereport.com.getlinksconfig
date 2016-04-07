@@ -1,0 +1,10 @@
+[Meta]
+Name:Drudge Report
+MaterialType: News
+RootDomain: www.drudgereport.com
+UserAgent: Random
+Referrer: None
+
+[Paths]
+ArticleTitles://a[not (img)][following-sibling::text()][text()]|||InnerText
+ArticleLinks://a[not (img)][following-sibling::text()][text()]|||href

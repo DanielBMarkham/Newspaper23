@@ -1,0 +1,10 @@
+[Meta]
+Name:Real Clear Science
+MaterialType: Science
+RootDomain: www.realclearscience.com
+UserAgent: Random
+Referrer: None
+
+[Paths]
+ArticleTitles://div[@id='story']/a[text()]|||InnerText
+ArticleLinks://div[@id='story']/a[text()]|||href

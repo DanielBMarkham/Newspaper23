@@ -1,0 +1,36 @@
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\GetLinks\bin\Debug\GetLinks.exe.config
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\GetLinks\bin\Debug\GetLinks.XML
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\GetLinks\bin\Debug\GetLinks.exe
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\GetLinks\bin\Debug\GetLinks.pdb
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\GetLinks\bin\Debug\FSharp.Core.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\GetLinks\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\GetLinks\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\GetLinks\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\GetLinks\bin\Debug\FSharp.Core.xml
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\GetLinks\obj\Debug\GetLinks.fsprojResolveAssemblyReference.cache
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\GetLinks\obj\Debug\GetLinks.exe
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\GetLinks\obj\Debug\GetLinks.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\GetLinks\bin\Debug\GetLinks.exe.config
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\GetLinks\bin\Debug\GetLinks.XML
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\GetLinks\bin\Debug\GetLinks.exe
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\GetLinks\bin\Debug\GetLinks.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\GetLinks\bin\Debug\FSharp.Core.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\GetLinks\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\GetLinks\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\GetLinks\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\GetLinks\bin\Debug\FSharp.Core.xml
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\GetLinks\obj\Debug\GetLinks.fsprojResolveAssemblyReference.cache
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\GetLinks\obj\Debug\GetLinks.exe
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\GetLinks\obj\Debug\GetLinks.pdb
+E:\Dropbox\source\git-repos\newspaper23\GetLinks\bin\Debug\GetLinks.exe.config
+E:\Dropbox\source\git-repos\newspaper23\GetLinks\bin\Debug\GetLinks.XML
+E:\Dropbox\source\git-repos\newspaper23\GetLinks\bin\Debug\GetLinks.exe
+E:\Dropbox\source\git-repos\newspaper23\GetLinks\bin\Debug\GetLinks.pdb
+E:\Dropbox\source\git-repos\newspaper23\GetLinks\bin\Debug\FSharp.Core.dll
+E:\Dropbox\source\git-repos\newspaper23\GetLinks\bin\Debug\HtmlAgilityPack.dll
+E:\Dropbox\source\git-repos\newspaper23\GetLinks\bin\Debug\HtmlAgilityPack.pdb
+E:\Dropbox\source\git-repos\newspaper23\GetLinks\bin\Debug\HtmlAgilityPack.xml
+E:\Dropbox\source\git-repos\newspaper23\GetLinks\bin\Debug\FSharp.Core.xml
+E:\Dropbox\source\git-repos\newspaper23\GetLinks\obj\Debug\GetLinks.fsprojResolveAssemblyReference.cache
+E:\Dropbox\source\git-repos\newspaper23\GetLinks\obj\Debug\GetLinks.exe
+E:\Dropbox\source\git-repos\newspaper23\GetLinks\obj\Debug\GetLinks.pdb

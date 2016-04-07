@@ -1,0 +1,10 @@
+[Meta]
+Name:CNN Feed
+MaterialType: News
+RootDomain: www.cnn.com
+UserAgent: Random
+Referrer: None
+
+[Paths]
+ArticleTitles://a[text()][not(img)][contains(@href, 'cnn.com') and not( (@hreflang) or contains(@href, '/games') or contains(@href, 'hpt=hp_tvvideo') or contains(@href, 'cnn.com/video/'))][not (img)][not(parent::h4)][not (ancestor::div[@class='cnn_ftrnvlnks'])][not (ancestor::div[@id='cnn_maintopprofile'])]|||InnerText
+ArticleLinks://a[text()][not(img)][contains(@href, 'cnn.com') and not( (@hreflang) or contains(@href, '/games') or contains(@href, 'hpt=hp_tvvideo') or contains(@href, 'cnn.com/video/'))][not (img)][not(parent::h4)][not (ancestor::div[@class='cnn_ftrnvlnks'])][not (ancestor::div[@id='cnn_maintopprofile'])]|||href

@@ -1,0 +1,36 @@
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\CreateArchive\bin\Debug\CreateArchive.exe.config
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\CreateArchive\bin\Debug\CreateArchive.XML
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\CreateArchive\bin\Debug\CreateArchive.exe
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\CreateArchive\bin\Debug\CreateArchive.pdb
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\CreateArchive\bin\Debug\FSharp.Core.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\CreateArchive\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\CreateArchive\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\CreateArchive\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\CreateArchive\bin\Debug\FSharp.Core.xml
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\CreateArchive\obj\Debug\CreateArchive.fsprojResolveAssemblyReference.cache
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\CreateArchive\obj\Debug\CreateArchive.exe
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\CreateArchive\obj\Debug\CreateArchive.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\CreateArchive\bin\Debug\CreateArchive.exe.config
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\CreateArchive\bin\Debug\CreateArchive.XML
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\CreateArchive\bin\Debug\CreateArchive.exe
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\CreateArchive\bin\Debug\CreateArchive.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\CreateArchive\bin\Debug\FSharp.Core.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\CreateArchive\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\CreateArchive\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\CreateArchive\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\CreateArchive\bin\Debug\FSharp.Core.xml
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\CreateArchive\obj\Debug\CreateArchive.fsprojResolveAssemblyReference.cache
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\CreateArchive\obj\Debug\CreateArchive.exe
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\CreateArchive\obj\Debug\CreateArchive.pdb
+E:\Dropbox\source\git-repos\newspaper23\CreateArchive\bin\Debug\CreateArchive.exe.config
+E:\Dropbox\source\git-repos\newspaper23\CreateArchive\bin\Debug\CreateArchive.XML
+E:\Dropbox\source\git-repos\newspaper23\CreateArchive\bin\Debug\CreateArchive.exe
+E:\Dropbox\source\git-repos\newspaper23\CreateArchive\bin\Debug\CreateArchive.pdb
+E:\Dropbox\source\git-repos\newspaper23\CreateArchive\bin\Debug\FSharp.Core.dll
+E:\Dropbox\source\git-repos\newspaper23\CreateArchive\bin\Debug\HtmlAgilityPack.dll
+E:\Dropbox\source\git-repos\newspaper23\CreateArchive\bin\Debug\HtmlAgilityPack.pdb
+E:\Dropbox\source\git-repos\newspaper23\CreateArchive\bin\Debug\HtmlAgilityPack.xml
+E:\Dropbox\source\git-repos\newspaper23\CreateArchive\bin\Debug\FSharp.Core.xml
+E:\Dropbox\source\git-repos\newspaper23\CreateArchive\obj\Debug\CreateArchive.fsprojResolveAssemblyReference.cache
+E:\Dropbox\source\git-repos\newspaper23\CreateArchive\obj\Debug\CreateArchive.exe
+E:\Dropbox\source\git-repos\newspaper23\CreateArchive\obj\Debug\CreateArchive.pdb

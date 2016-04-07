@@ -1,0 +1,10 @@
+[Meta]
+Name:DZone
+MaterialType:Technology
+RootDomain:www.dzone.com
+UserAgent: Random
+Referrer: None
+
+[Paths]
+ArticleTitles://div[@class='details']/h3/a[text()]|||InnerText
+ArticleLinks://div[@class='details']/h3/a[text()]|||href

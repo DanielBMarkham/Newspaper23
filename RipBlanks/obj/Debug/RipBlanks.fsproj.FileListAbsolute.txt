@@ -1,0 +1,36 @@
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipBlanks\bin\Debug\RipBlanks.exe.config
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipBlanks\bin\Debug\RipBlanks.XML
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipBlanks\bin\Debug\RipBlanks.exe
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipBlanks\bin\Debug\RipBlanks.pdb
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipBlanks\bin\Debug\FSharp.Core.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipBlanks\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipBlanks\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipBlanks\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipBlanks\bin\Debug\FSharp.Core.xml
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipBlanks\obj\Debug\RipBlanks.fsprojResolveAssemblyReference.cache
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipBlanks\obj\Debug\RipBlanks.exe
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipBlanks\obj\Debug\RipBlanks.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipBlanks\bin\Debug\RipBlanks.exe.config
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipBlanks\bin\Debug\RipBlanks.XML
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipBlanks\bin\Debug\RipBlanks.exe
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipBlanks\bin\Debug\RipBlanks.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipBlanks\bin\Debug\FSharp.Core.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipBlanks\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipBlanks\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipBlanks\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipBlanks\bin\Debug\FSharp.Core.xml
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipBlanks\obj\Debug\RipBlanks.fsprojResolveAssemblyReference.cache
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipBlanks\obj\Debug\RipBlanks.exe
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipBlanks\obj\Debug\RipBlanks.pdb
+E:\Dropbox\source\git-repos\newspaper23\RipBlanks\bin\Debug\RipBlanks.exe.config
+E:\Dropbox\source\git-repos\newspaper23\RipBlanks\bin\Debug\RipBlanks.XML
+E:\Dropbox\source\git-repos\newspaper23\RipBlanks\bin\Debug\RipBlanks.exe
+E:\Dropbox\source\git-repos\newspaper23\RipBlanks\bin\Debug\RipBlanks.pdb
+E:\Dropbox\source\git-repos\newspaper23\RipBlanks\bin\Debug\FSharp.Core.dll
+E:\Dropbox\source\git-repos\newspaper23\RipBlanks\bin\Debug\HtmlAgilityPack.dll
+E:\Dropbox\source\git-repos\newspaper23\RipBlanks\bin\Debug\HtmlAgilityPack.pdb
+E:\Dropbox\source\git-repos\newspaper23\RipBlanks\bin\Debug\HtmlAgilityPack.xml
+E:\Dropbox\source\git-repos\newspaper23\RipBlanks\bin\Debug\FSharp.Core.xml
+E:\Dropbox\source\git-repos\newspaper23\RipBlanks\obj\Debug\RipBlanks.fsprojResolveAssemblyReference.cache
+E:\Dropbox\source\git-repos\newspaper23\RipBlanks\obj\Debug\RipBlanks.exe
+E:\Dropbox\source\git-repos\newspaper23\RipBlanks\obj\Debug\RipBlanks.pdb

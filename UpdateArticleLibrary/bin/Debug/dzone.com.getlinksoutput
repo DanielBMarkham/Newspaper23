@@ -1,0 +1,57 @@
+Links ripped from DZone on 08/13/2014 19:35:01
+
+
+[ArticleTitles]
+The Backup Glitch That Erased Toy Story 2, And What Happened Next...
+Application Performance on the Network: TCP Window Size
+First Release Cnadidate of Spring Data Release Train Evans available
+Generating and splitting a delimited string column
+Manage Your API Keys With Java, Jersey, and Stormpath
+Non-Blocking Doubly-Linked Lists with Good Amortized Complexity
+The Future of Mapping: An Interview with Clement Valla
+Aggressive Decoupling of Scrum Teams
+MySQL Find and Replace (REPLACE)
+API Integrations: 5 Ways to Optimize the User Experience
+NetBeans Nightly Now Includes WildFly Plugin
+Setting up Puppet agents in Docker containers
+Node.js in Azure Web Sites and Service Bus - Reading Messages from Cloud-hosted Queues
+6 Rules of Thumb for MongoDB Schema Design: Part 3
+Hello World with ReactJS – Code Example
+Digging into MSMQ
+MongoDB with Java
+dm_exec_query_plan Returning NULL Query Plan
+Short Stack: Eucalyptus shocks world by joining OpenStack, state of the OpenStack union and 4 ways OpenStack is good for IT
+Book Review: Creating Flat Design Websites
+Google NYC Presents: Performance Bugs
+Dependency Inversion Principle in C# – SOLID Design Principles
+Checking Wine with PVS-Studio and Clang Static Analyzer
+Navigating XML using Cypher
+How I Reduced Worker Role Time from &gt;5 Hours to &lt;1 Hour
+
+
+[ArticleLinks]
+http://gobitcan.com/blog/2014-08-08-the-backup-glitch-that-erased-toy-story-2-and-how-to-avoid-database-disaster
+http://apmblog.compuware.com/2014/08/12/understanding-application-performance-network-part-tcp-window-size/
+https://spring.io/blog/2014/08/13/first-release-candidate-of-spring-data-release-train-evans-available
+http://tharakaweb.com/2013/01/21/generating-and-splitting-a-delimited-string-column/
+https://stormpath.com/blog/jersey-app-key-management/
+http://arxiv.org/abs/1408.1935
+http://blog.art21.org/2014/08/11/the-future-of-mapping-an-interview-with-clement-valla/#.U-kvWfldWQO
+http://www.leadingagile.com/2014/08/agressive-decoupling-scrum-teams/
+http://java.dzone.com/articles/mysql-find-and-replace-replace
+http://www.cloud-elements.com/api-integrations-5-ways-optimize-user-experience/
+http://java.dzone.com/articles/netbeans-nightly-now-includes
+http://www.dev2ops.in/setting-up-puppet-agents-in-docker-containers/
+http://java.dzone.com/articles/nodejs-azure-web-sites-and
+http://java.dzone.com/articles/6-rules-thumb-mongodb-schema-1
+http://vitalflux.com/hello-world-reactjs-code-example/
+http://java.dzone.com/articles/digging-msmq
+http://blog.spec-india.com/mongodb-with-java
+http://java.dzone.com/articles/dmexecqueryplan-returning-null
+http://www.tesora.com/blog/short-stack-eucalyptus-shocks-world-joining-openstack-state-openstack-union-and-4-ways
+http://java.dzone.com/articles/book-review-creating-flat
+https://www.youtube.com/watch?v=89qiHoDjeDg
+http://johnlnelson.com/2014/07/23/dependency-inversion-principle-in-c-solid-design-principles/
+http://www.viva64.com/en/b/0272/
+http://architects.dzone.com/articles/navigating-xml-using-cypher
+http://cloud.dzone.com/articles/how-i-reduced-worker-role-time

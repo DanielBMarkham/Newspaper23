@@ -1,0 +1,15 @@
+#!/bin/bash
+
+clear
+
+echo "Rip articles and move to appropriate directory"
+echo ""
+cd /home/www/newspaper23.com/ripprogs/ripped
+find . -mtime -30 -exec cp {} ../../ripped/ \;
+cp ripped/* ../ripped/
+find . -mtime +30 -exec rm {} \;
+cd /home/www/newspaper23.com/ripprogs
+./RipText /I:frontpage.selectedarticlelist /v:5 /N:60
+
+echo ""
+echo "Rip Text Completed"

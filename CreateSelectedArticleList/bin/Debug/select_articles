@@ -1,0 +1,10 @@
+#!/bin/bash
+clear
+
+echo "Select the articles for today's newspaper"
+echo ""
+cd /home/www/newspaper23.com/ripprogs
+./CreateSelectedArticleList /V /O:frontpage.selectedarticlelist  /C:main.selectedarticlelistconfig
+./CreateSelectedArticleList /V /O:frontpage-local.selectedarticlelist  /C:main.selectedarticlelistconfig /L
+echo ""
+echo "Select Articles Update"

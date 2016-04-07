@@ -1,0 +1,36 @@
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipText\bin\Debug\RipText.exe.config
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipText\bin\Debug\RipText.XML
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipText\bin\Debug\RipText.exe
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipText\bin\Debug\RipText.pdb
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipText\bin\Debug\FSharp.Core.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipText\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipText\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipText\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipText\bin\Debug\FSharp.Core.xml
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipText\obj\Debug\RipText.fsprojResolveAssemblyReference.cache
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipText\obj\Debug\RipText.exe
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipText\obj\Debug\RipText.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipText\bin\Debug\RipText.exe.config
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipText\bin\Debug\RipText.XML
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipText\bin\Debug\RipText.exe
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipText\bin\Debug\RipText.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipText\bin\Debug\FSharp.Core.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipText\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipText\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipText\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipText\bin\Debug\FSharp.Core.xml
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipText\obj\Debug\RipText.fsprojResolveAssemblyReference.cache
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipText\obj\Debug\RipText.exe
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipText\obj\Debug\RipText.pdb
+E:\Dropbox\source\git-repos\newspaper23\RipText\bin\Debug\RipText.exe.config
+E:\Dropbox\source\git-repos\newspaper23\RipText\bin\Debug\RipText.XML
+E:\Dropbox\source\git-repos\newspaper23\RipText\bin\Debug\RipText.exe
+E:\Dropbox\source\git-repos\newspaper23\RipText\bin\Debug\RipText.pdb
+E:\Dropbox\source\git-repos\newspaper23\RipText\bin\Debug\FSharp.Core.dll
+E:\Dropbox\source\git-repos\newspaper23\RipText\bin\Debug\HtmlAgilityPack.dll
+E:\Dropbox\source\git-repos\newspaper23\RipText\bin\Debug\HtmlAgilityPack.pdb
+E:\Dropbox\source\git-repos\newspaper23\RipText\bin\Debug\HtmlAgilityPack.xml
+E:\Dropbox\source\git-repos\newspaper23\RipText\bin\Debug\FSharp.Core.xml
+E:\Dropbox\source\git-repos\newspaper23\RipText\obj\Debug\RipText.fsprojResolveAssemblyReference.cache
+E:\Dropbox\source\git-repos\newspaper23\RipText\obj\Debug\RipText.exe
+E:\Dropbox\source\git-repos\newspaper23\RipText\obj\Debug\RipText.pdb

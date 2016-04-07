@@ -1,0 +1,10 @@
+[Meta]
+Name:Real Clear History
+MaterialType: Historical Essays
+RootDomain: www.realclearhistory.com
+UserAgent: Random
+Referrer: None
+
+[Paths]
+ArticleTitles://div[@id='story']//span[@class='article']//a[text()]|||InnerText
+ArticleLinks://div[@id='story']//span[@class='article']//a[text()]|||href

@@ -1,0 +1,11 @@
+[Meta]
+Name: NBCNews Feed
+MaterialType: News
+RootDomain: www.nbcnews.com
+UserAgent: Random
+Referrer: None
+
+[Paths]
+ArticleTitles://a[text()]|||InnerText
+ArticleLinks://a[text()]|||href
+

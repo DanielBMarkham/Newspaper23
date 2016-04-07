@@ -1,0 +1,10 @@
+[Meta]
+Name:Google News
+MaterialType:News
+RootDomain:www.news.google.com
+UserAgent: Random
+Referrer: None
+
+[Paths]
+ArticleTitles://a[contains(@class, 'article ')][text()]|||InnerText
+ArticleLinks://a[contains(@class, 'article ')][text()]|||href

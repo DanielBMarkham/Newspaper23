@@ -1,0 +1,51 @@
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\FormatSelectedArticleList\bin\Debug\FormatSelectedArticleList.exe.config
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\FormatSelectedArticleList\bin\Debug\FormatSelectedArticleList.XML
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\FormatSelectedArticleList\bin\Debug\FormatSelectedArticleList.exe
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\FormatSelectedArticleList\bin\Debug\FormatSelectedArticleList.pdb
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\FormatSelectedArticleList\bin\Debug\FSharp.Core.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\FormatSelectedArticleList\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\FormatSelectedArticleList\bin\Debug\mscorlib.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\FormatSelectedArticleList\bin\Debug\System.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\FormatSelectedArticleList\bin\Debug\System.Drawing.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\FormatSelectedArticleList\bin\Debug\System.Web.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\FormatSelectedArticleList\bin\Debug\System.Xml.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\FormatSelectedArticleList\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\FormatSelectedArticleList\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\FormatSelectedArticleList\bin\Debug\FSharp.Core.xml
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\FormatSelectedArticleList\obj\Debug\FormatSelectedArticleList.fsprojResolveAssemblyReference.cache
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\FormatSelectedArticleList\obj\Debug\FormatSelectedArticleList.exe
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\FormatSelectedArticleList\obj\Debug\FormatSelectedArticleList.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\FormatSelectedArticleList.exe.config
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\FormatSelectedArticleList.XML
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\FormatSelectedArticleList.exe
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\FormatSelectedArticleList.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\FSharp.Core.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\mscorlib.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\System.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\System.Drawing.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\System.Web.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\System.Xml.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\FSharp.Core.xml
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\obj\Debug\FormatSelectedArticleList.fsprojResolveAssemblyReference.cache
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\obj\Debug\FormatSelectedArticleList.exe
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\obj\Debug\FormatSelectedArticleList.pdb
+E:\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\FormatSelectedArticleList.exe.config
+E:\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\FormatSelectedArticleList.XML
+E:\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\FormatSelectedArticleList.exe
+E:\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\FormatSelectedArticleList.pdb
+E:\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\FSharp.Core.dll
+E:\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\HtmlAgilityPack.dll
+E:\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\mscorlib.dll
+E:\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\System.dll
+E:\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\System.Drawing.dll
+E:\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\System.Web.dll
+E:\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\System.Xml.dll
+E:\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\HtmlAgilityPack.pdb
+E:\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\HtmlAgilityPack.xml
+E:\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\bin\Debug\FSharp.Core.xml
+E:\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\obj\Debug\FormatSelectedArticleList.fsprojResolveAssemblyReference.cache
+E:\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\obj\Debug\FormatSelectedArticleList.exe
+E:\Dropbox\source\git-repos\newspaper23\FormatSelectedArticleList\obj\Debug\FormatSelectedArticleList.pdb

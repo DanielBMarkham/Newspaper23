@@ -1,0 +1,10 @@
+[Meta]
+Name:Medium
+MaterialType: Commentary
+RootDomain: www.medium.com
+UserAgent: Random
+Referrer: None
+
+[Paths]
+ArticleTitles://a[text()][not(img)][not(@href='#')]|||InnerText
+ArticleLinks://a[text()][not(img)][not(@href='#')]|||href

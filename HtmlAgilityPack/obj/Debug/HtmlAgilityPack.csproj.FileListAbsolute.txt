@@ -1,0 +1,33 @@
+C:\Users\Daniel_Main\Documents\HtmlAgilityPack\Branches\1.4.0\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.XML
+C:\Users\Daniel_Main\Documents\HtmlAgilityPack\Branches\1.4.0\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel_Main\Documents\HtmlAgilityPack\Branches\1.4.0\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel_Main\Documents\HtmlAgilityPack\Branches\1.4.0\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.csprojResolveAssemblyReference.cache
+C:\Users\Daniel_Main\Documents\HtmlAgilityPack\Branches\1.4.0\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel_Main\Documents\HtmlAgilityPack\Branches\1.4.0\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.XML
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\HtmlAgilityPack\bin\Debug\System.Data.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\HtmlAgilityPack\bin\Debug\System.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\HtmlAgilityPack\bin\Debug\System.Xml.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.csprojResolveAssemblyReference.cache
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.XML
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\HtmlAgilityPack\bin\Debug\System.Data.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\HtmlAgilityPack\bin\Debug\System.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\HtmlAgilityPack\bin\Debug\System.Xml.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.pdb
+E:\Dropbox\source\git-repos\newspaper23\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.XML
+E:\Dropbox\source\git-repos\newspaper23\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.dll
+E:\Dropbox\source\git-repos\newspaper23\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.pdb
+E:\Dropbox\source\git-repos\newspaper23\HtmlAgilityPack\bin\Debug\System.Data.dll
+E:\Dropbox\source\git-repos\newspaper23\HtmlAgilityPack\bin\Debug\System.dll
+E:\Dropbox\source\git-repos\newspaper23\HtmlAgilityPack\bin\Debug\System.Xml.dll
+E:\Dropbox\source\git-repos\newspaper23\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.csprojResolveAssemblyReference.cache
+E:\Dropbox\source\git-repos\newspaper23\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.dll
+E:\Dropbox\source\git-repos\newspaper23\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.pdb

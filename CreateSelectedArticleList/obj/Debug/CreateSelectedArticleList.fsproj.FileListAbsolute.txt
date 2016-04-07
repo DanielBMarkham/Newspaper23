@@ -1,0 +1,45 @@
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\CreateSelectedArticleList\bin\Debug\CreateSelectedArticleList.exe.config
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\CreateSelectedArticleList\bin\Debug\CreateSelectedArticleList.XML
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\CreateSelectedArticleList\bin\Debug\CreateSelectedArticleList.exe
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\CreateSelectedArticleList\bin\Debug\CreateSelectedArticleList.pdb
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\CreateSelectedArticleList\bin\Debug\FSharp.Core.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\CreateSelectedArticleList\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\CreateSelectedArticleList\bin\Debug\mscorlib.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\CreateSelectedArticleList\bin\Debug\System.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\CreateSelectedArticleList\bin\Debug\System.Xml.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\CreateSelectedArticleList\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\CreateSelectedArticleList\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\CreateSelectedArticleList\bin\Debug\FSharp.Core.xml
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\CreateSelectedArticleList\obj\Debug\CreateSelectedArticleList.fsprojResolveAssemblyReference.cache
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\CreateSelectedArticleList\obj\Debug\CreateSelectedArticleList.exe
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\CreateSelectedArticleList\obj\Debug\CreateSelectedArticleList.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\bin\Debug\CreateSelectedArticleList.exe.config
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\bin\Debug\CreateSelectedArticleList.XML
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\bin\Debug\CreateSelectedArticleList.exe
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\bin\Debug\CreateSelectedArticleList.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\bin\Debug\FSharp.Core.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\bin\Debug\mscorlib.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\bin\Debug\System.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\bin\Debug\System.Xml.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\bin\Debug\FSharp.Core.xml
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\obj\Debug\CreateSelectedArticleList.fsprojResolveAssemblyReference.cache
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\obj\Debug\CreateSelectedArticleList.exe
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\obj\Debug\CreateSelectedArticleList.pdb
+E:\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\bin\Debug\CreateSelectedArticleList.exe.config
+E:\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\bin\Debug\CreateSelectedArticleList.XML
+E:\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\bin\Debug\CreateSelectedArticleList.exe
+E:\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\bin\Debug\CreateSelectedArticleList.pdb
+E:\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\bin\Debug\FSharp.Core.dll
+E:\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\bin\Debug\HtmlAgilityPack.dll
+E:\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\bin\Debug\mscorlib.dll
+E:\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\bin\Debug\System.dll
+E:\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\bin\Debug\System.Xml.dll
+E:\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\bin\Debug\HtmlAgilityPack.pdb
+E:\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\bin\Debug\HtmlAgilityPack.xml
+E:\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\bin\Debug\FSharp.Core.xml
+E:\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\obj\Debug\CreateSelectedArticleList.fsprojResolveAssemblyReference.cache
+E:\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\obj\Debug\CreateSelectedArticleList.exe
+E:\Dropbox\source\git-repos\newspaper23\CreateSelectedArticleList\obj\Debug\CreateSelectedArticleList.pdb

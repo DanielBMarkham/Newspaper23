@@ -1,0 +1,15 @@
+[Meta]
+Name:HackerNews
+MaterialType: Technology
+MoreLink: //a[text()='More']
+RootDomain: news.ycombinator.com
+UserAgent: Random
+Referrer: None
+
+[Paths]
+ArticleTitles://table//tr/td/table/tr[descendant::a[text()!='More']][td[@align='right']][following-sibling::tr[1]/td[@class='subtext']/a[contains(text(), 'comment')]]/td[3]/a|||InnerText
+ArticleLinks://table//tr/td/table/tr[descendant::a[text()!='More']][td[@align='right']][following-sibling::tr[1]/td[@class='subtext']/a[contains(text(), 'comment')]]/td[3]/a|||href
+CurrentScore://table//tr/td/table/tr[descendant::a[text()!='More']][td[@align='right']]/following-sibling::tr[1][td[@class='subtext']/a[contains(text(), 'comment')]]/td[2]/span|||InnerText
+SubmissionTime://table//tr/td/table/tr[descendant::a[text()!='More']][td[@align='right']]/following-sibling::tr[1][td[@class='subtext']/a[contains(text(), 'comment')]]/td[2]/text()[2]|||InnerText
+Submitter://table//tr/td/table/tr[descendant::a[text()!='More']][td[@align='right']]/following-sibling::tr[1][td[@class='subtext']/a[contains(text(), 'comment')]]/td[2]/a[1]|||InnerText
+NumberOfComments://table//tr/td/table/tr[descendant::a[text()!='More']][td[@align='right']]/following-sibling::tr[1][td[@class='subtext']/a[contains(text(), 'comment')]]/td[2]/a[2]|||InnerText

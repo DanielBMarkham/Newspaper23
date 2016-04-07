@@ -1,0 +1,32 @@
+#!/bin/bash
+clear
+
+echo "Begin updating libraries for files that were ripped"
+echo ""
+cd /home/ubuntu/ripprogs
+./UpdateArticleLibrary /I:cnn.com.output /L:cnn.com.articlelibrary /V
+./UpdateArticleLibrary /I:drudgereport.com.output /L:drudgereport.com.articlelibrary /V
+./UpdateArticleLibrary /I:dzone.com.output /L:dzone.com.articlelibrary /V
+./UpdateArticleLibrary /I:foxnews.com.output /L:foxnews.com.articlelibrary /V
+./UpdateArticleLibrary /I:mediaite.com.output /L:mediaite.com.articlelibrary /V
+./UpdateArticleLibrary /I:nbcnews.com.output /L:nbcnews.com.articlelibrary /V
+./UpdateArticleLibrary /I:news.ycombinator.com.output /L:news.ycombinator.com.articlelibrary /V
+./UpdateArticleLibrary /I:realclearbooks.com.output /L:realclearbooks.com.articlelibrary /V
+./UpdateArticleLibrary /I:realclearhistory.com.output /L:realclearhistory.com.articlelibrary /V
+./UpdateArticleLibrary /I:realclearmarkets.com.output /L:realclearmarkets.com.articlelibrary /V
+./UpdateArticleLibrary /I:realclearpolicy.com.output /L:realclearpolicy.com.articlelibrary /V
+./UpdateArticleLibrary /I:realclearpolitics.com.output /L:realclearpolitics.com.articlelibrary /V
+./UpdateArticleLibrary /I:realclearscience.com.output /L:realclearscience.com.articlelibrary /V
+./UpdateArticleLibrary /I:realcleartechnology.com.output /L:realcleartechnology.com.articlelibrary /V
+./UpdateArticleLibrary /I:realclearworld.com.output /L:realclearworld.com.articlelibrary /V
+./UpdateArticleLibrary /I:reddit.com-r-agile.output /L:reddit.com-r-agile.articlelibrary /V
+./UpdateArticleLibrary /I:reddit.com-r-finance.output /L:reddit.com-r-finance.articlelibrary /V
+./UpdateArticleLibrary /I:reddit.com-r-history.output /L:reddit.com-r-history.articlelibrary /V
+./UpdateArticleLibrary /I:reddit.com-r-libertarian.output /L:reddit.com-r-libertarian.articlelibrary /V
+./UpdateArticleLibrary /I:reddit.com-r-science.output /L:reddit.com-r-science.articlelibrary /V
+./UpdateArticleLibrary /I:reddit.com-r-technology.output /L:reddit.com-r-technology.articlelibrary /V
+./UpdateArticleLibrary /I:reason.com.output /L:reason.com.articlelibrary /V
+./UpdateArticleLibrary /I:huffingtonpost.com.output /L:huffingtonpost.com.articlelibrary /V
+./UpdateArticleLibrary /I:watchingamerica.com-News.output /L:watchingamerica.com-News.articlelibrary /V
+echo ""
+echo "Libraries Update"

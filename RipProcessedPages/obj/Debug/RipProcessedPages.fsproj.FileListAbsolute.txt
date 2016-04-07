@@ -1,0 +1,36 @@
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipProcessedPages\bin\Debug\RipProcessedPages.exe.config
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipProcessedPages\bin\Debug\RipProcessedPages.XML
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipProcessedPages\bin\Debug\RipProcessedPages.exe
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipProcessedPages\bin\Debug\RipProcessedPages.pdb
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipProcessedPages\bin\Debug\FSharp.Core.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipProcessedPages\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipProcessedPages\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipProcessedPages\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipProcessedPages\bin\Debug\FSharp.Core.xml
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipProcessedPages\obj\Debug\RipProcessedPages.fsprojResolveAssemblyReference.cache
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipProcessedPages\obj\Debug\RipProcessedPages.exe
+C:\Users\Daniel_Main\Dropbox\source\git-repos\Newspaper23\RipProcessedPages\obj\Debug\RipProcessedPages.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipProcessedPages\bin\Debug\RipProcessedPages.exe.config
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipProcessedPages\bin\Debug\RipProcessedPages.XML
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipProcessedPages\bin\Debug\RipProcessedPages.exe
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipProcessedPages\bin\Debug\RipProcessedPages.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipProcessedPages\bin\Debug\FSharp.Core.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipProcessedPages\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipProcessedPages\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipProcessedPages\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipProcessedPages\bin\Debug\FSharp.Core.xml
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipProcessedPages\obj\Debug\RipProcessedPages.fsprojResolveAssemblyReference.cache
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipProcessedPages\obj\Debug\RipProcessedPages.exe
+C:\Users\Daniel Markham\Dropbox\source\git-repos\newspaper23\RipProcessedPages\obj\Debug\RipProcessedPages.pdb
+E:\Dropbox\source\git-repos\newspaper23\RipProcessedPages\bin\Debug\RipProcessedPages.exe.config
+E:\Dropbox\source\git-repos\newspaper23\RipProcessedPages\bin\Debug\RipProcessedPages.XML
+E:\Dropbox\source\git-repos\newspaper23\RipProcessedPages\bin\Debug\RipProcessedPages.exe
+E:\Dropbox\source\git-repos\newspaper23\RipProcessedPages\bin\Debug\RipProcessedPages.pdb
+E:\Dropbox\source\git-repos\newspaper23\RipProcessedPages\bin\Debug\FSharp.Core.dll
+E:\Dropbox\source\git-repos\newspaper23\RipProcessedPages\bin\Debug\HtmlAgilityPack.dll
+E:\Dropbox\source\git-repos\newspaper23\RipProcessedPages\bin\Debug\HtmlAgilityPack.pdb
+E:\Dropbox\source\git-repos\newspaper23\RipProcessedPages\bin\Debug\HtmlAgilityPack.xml
+E:\Dropbox\source\git-repos\newspaper23\RipProcessedPages\bin\Debug\FSharp.Core.xml
+E:\Dropbox\source\git-repos\newspaper23\RipProcessedPages\obj\Debug\RipProcessedPages.fsprojResolveAssemblyReference.cache
+E:\Dropbox\source\git-repos\newspaper23\RipProcessedPages\obj\Debug\RipProcessedPages.exe
+E:\Dropbox\source\git-repos\newspaper23\RipProcessedPages\obj\Debug\RipProcessedPages.pdb

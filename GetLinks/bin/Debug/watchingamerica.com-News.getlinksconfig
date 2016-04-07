@@ -1,0 +1,11 @@
+[Meta]
+Name:Watching America
+MaterialType:Opinion
+RootDomain:www.watchingamerica.com/News
+MoreLink: //a[contains(@href,'?page=') and contains(text(), 'Older')]
+UserAgent: Random
+Referrer: None
+
+[Paths]
+ArticleTitles://a[(@class='headline' or @class='feature')]|||InnerText
+ArticleLinks://a[(@class='headline' or @class='feature')]|||href
